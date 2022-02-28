@@ -1,2 +1,1 @@
-# MyLearning
-Notes
+# Notes and reference material
