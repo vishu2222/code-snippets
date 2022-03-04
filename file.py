@@ -1,4 +1,5 @@
-f = open("new.txt", "r") # read a file
+# read a file
+f = open("new.txt", "r")
 line1 = f.readline()
 
 
