@@ -19,3 +19,5 @@ axs[0,1].plot(df['x'],df['y'])
 axs[1,0].plot(df['x'],df['y'])
 axs[1,1].plot(df['x'],df['y'])
 ###########################################################
+
+plt.rcParams["figure.figsize"] = (20,3)   # figsize
